@@ -1,0 +1,8 @@
+{
+  "name": "jquery.contains",
+  "version": "1.0.0",
+  "main": "jquery.contains.js",
+  "repository": "https://github.com/icarodamiani/contains",
+  "author": "Icaro Franco Damiani <icarodamiani@gmail.com>",
+  "license": "MIT"
+}
